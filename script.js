@@ -4,4 +4,8 @@ function counter(limit){
   }
 }
 
+<<<<<<< HEAD
 counter(200);
+=======
+counter(150);
+>>>>>>> master
