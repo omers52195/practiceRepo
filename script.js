@@ -4,4 +4,4 @@ function counter(limit){
   }
 }
 
-counter(100);
+counter(150);
