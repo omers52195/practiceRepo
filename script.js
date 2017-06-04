@@ -1,7 +1,7 @@
-function counter(){
-  for (var i = 0; i <= 100; i++){
+function counter(limit){
+  for (var i = 0; i <= limit; i++){
       console.log(i);
   }
 }
 
-counter();
+counter(100);
